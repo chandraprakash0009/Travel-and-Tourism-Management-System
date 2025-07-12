@@ -20,7 +20,7 @@ public class Conn  {
             // step-1 register the driver class
             Class.forName("com.mysql.cj.jdbc.Driver");
             // step-2 register connection string
-            c = DriverManager.getConnection("jdbc:mysql:///travelmanagementsystem", "root", "Mahi@123");
+            c = DriverManager.getConnection("jdbc:mysql:///travelmanagementsystem", "root", "xyz");
             s = c.createStatement();
         }catch(Exception e){
             e.printStackTrace();
