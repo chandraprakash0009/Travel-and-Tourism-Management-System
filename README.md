@@ -21,8 +21,14 @@ MySQL database integration for secure data storage.
 
 Programming Language: Java
 
+
 GUI Framework: Swing
 
 Database: MySQL
+
+
+🔹 You can see the source code in master-branch
+
+
 
 IDE: NetBeans
